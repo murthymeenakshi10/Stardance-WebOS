@@ -11,7 +11,9 @@
   <h3> Things I like </h3>
 
   <h2> Introduction!! </h2>
-  <p> Hello there! This is Meenakshi speaking! Hi again!! Welcome to my web OS. This is probably the first proper page I'm coding so, have mercy... Thanks!! :D </p>
+  <p> Hello there! </p>
+  
+  <p> This is Meenakshi speaking! Welcome to my web OS. This is probably the first proper page I'm coding so, have mercy... Thanks!! :D </p>
   </body>
 
 </html>
